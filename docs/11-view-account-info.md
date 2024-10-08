@@ -1,6 +1,6 @@
 ---
 title: 查看账号信息
-sidebar_position: 8
 ---
 
+会显示用户名（如果登陆的话）
 ![](./img/vai.gif)
